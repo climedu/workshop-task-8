@@ -148,9 +148,11 @@ function draw (){
   ellipse(300,100,40,40);
 }
 ```
+
 <img width="400" alt="Screenshot 2025-02-08 at 1 25 32 PM" src="https://github.com/user-attachments/assets/040c8557-6ac2-4539-a873-4efb45eadaee" />
 
 After showing the data in 2 hours
+
 <img width="400" alt="Screenshot 2025-02-08 at 3 10 06 PM" src="https://github.com/user-attachments/assets/a72f56c9-4128-4b1e-a24c-ef4f5858f7c8" />
 
 ## Task Journey
