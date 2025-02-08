@@ -7,8 +7,8 @@ Here is a URL to the webpage for this project: [link]( https://climedu.github.io
 - Make a new repository for your p5.js project on your GitHub account, publish your sketch as a webpage, and include a README file in your repository with a URL to the webpage along with documentation of your work.
 
 ## Overview
-- Create poem generator and exploring rita.js library
-- Explore on the noun, random, tokenized, verb, and pluralized features
+-  Learn more about API
+-  Experiment with other new API sources (user money exchange rate)
 
 ## Workshop Notes (Text & Language)
 
